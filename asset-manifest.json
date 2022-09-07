@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-mania-app/static/css/main.e622dbdd.chunk.css",
+    "main.js": "/movie-mania-app/static/js/main.67bd487d.chunk.js",
+    "main.js.map": "/movie-mania-app/static/js/main.67bd487d.chunk.js.map",
+    "runtime-main.js": "/movie-mania-app/static/js/runtime-main.5ce25d80.js",
+    "runtime-main.js.map": "/movie-mania-app/static/js/runtime-main.5ce25d80.js.map",
+    "static/js/2.417eabea.chunk.js": "/movie-mania-app/static/js/2.417eabea.chunk.js",
+    "static/js/2.417eabea.chunk.js.map": "/movie-mania-app/static/js/2.417eabea.chunk.js.map",
+    "index.html": "/movie-mania-app/index.html",
+    "static/css/main.e622dbdd.chunk.css.map": "/movie-mania-app/static/css/main.e622dbdd.chunk.css.map",
+    "static/js/2.417eabea.chunk.js.LICENSE.txt": "/movie-mania-app/static/js/2.417eabea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce25d80.js",
+    "static/js/2.417eabea.chunk.js",
+    "static/css/main.e622dbdd.chunk.css",
+    "static/js/main.67bd487d.chunk.js"
+  ]
+}
